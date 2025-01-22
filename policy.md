@@ -29,3 +29,16 @@ You may contact us at any time to request access to or deletion of your data.
 If you have any questions about this Privacy Policy, please contact us at:
 mgallego.business@gmail.com
 
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
